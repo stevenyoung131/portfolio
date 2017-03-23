@@ -11,7 +11,25 @@
 
 * {
   font-family: 'Lato', sans-serif;
-  padding: 10px;
+}
+
+h1 {
+  font-weight: 100;
+  text-align: right;
+}
+
+h2 {
+  font-size: 80%;
+  font-weight: 400;
+}
+
+h3 {
+  color: #BCBBBB;
+  font-weight: 400;
+}
+
+h4 {
+  color: #585953;
 }
 
 .bar {
